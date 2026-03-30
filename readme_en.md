@@ -60,15 +60,15 @@ The detection station operates autonomously:
 
 - Vehicles are detected using a YOLO model
 - Classification is performed according to Swiss-10
-- only relevant classes are considered and can be selectively chosen
+- Only relevant classes are considered and can be selectively chosen
 
 ---
 
 ## 5.2 Tracking & Direction Determination
 
 - Vehicles are tracked over multiple frames
-- the direction of travel is determined from the movement
-- optional: assignment to defined lanes according to configuration
+- The direction of travel is determined from the movement
+- Optional: assignment to defined lanes according to configuration
 
 ---
 
